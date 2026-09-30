@@ -1,0 +1,40 @@
+{
+  "rows": [
+    {
+      "title": "Seguir viendo",
+      "items": [
+        { "id": "n1", "title": "El río", "year": 2022, "kind": "Serie", "tag": "96% match" },
+        { "id": "n2", "title": "Noche larga", "year": 2024, "kind": "Película", "tag": "S1 E4" },
+        { "id": "n3", "title": "Puerto", "year": 2021, "kind": "Doc", "tag": "1h 12m" },
+        { "id": "n4", "title": "Selva", "year": 2023, "kind": "Serie", "tag": "Nuevo" }
+      ]
+    },
+    {
+      "title": "Tendencias",
+      "items": [
+        { "id": "n5", "title": "Código abierto", "year": 2025, "kind": "Serie", "tag": "Top 10" },
+        { "id": "n6", "title": "Mate amargo", "year": 2020, "kind": "Película", "tag": "Comedia" },
+        { "id": "n7", "title": "Ruta 14", "year": 2024, "kind": "Serie", "tag": "Drama" },
+        { "id": "n8", "title": "Bitácora", "year": 2019, "kind": "Doc", "tag": "Gratis" }
+      ]
+    },
+    {
+      "title": "Para vos",
+      "items": [
+        { "id": "n9", "title": "Frontend", "year": 2023, "kind": "Curso", "tag": "JS" },
+        { "id": "n10", "title": "Canvas", "year": 2024, "kind": "Curso", "tag": "Juegos" },
+        { "id": "n11", "title": "APIs", "year": 2022, "kind": "Serie", "tag": "Dev" },
+        { "id": "n12", "title": "Vanilla", "year": 2026, "kind": "Película", "tag": "Original" }
+      ]
+    },
+    {
+      "title": "YouTube · Seguir viendo",
+      "items": [
+        { "id": "y1", "title": "Deploy en Cloud Run", "year": 2026, "kind": "Video", "tag": "12:04" },
+        { "id": "y2", "title": "Mongo Atlas en 8 min", "year": 2026, "kind": "Video", "tag": "8:21" },
+        { "id": "y3", "title": "JS vanilla UI", "year": 2025, "kind": "Video", "tag": "18:40" },
+        { "id": "y4", "title": "CSS grid rows", "year": 2024, "kind": "Video", "tag": "6:11" }
+      ]
+    }
+  ]
+}
